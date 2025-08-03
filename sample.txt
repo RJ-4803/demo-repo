@@ -1,1 +1,2 @@
-My name is Renujaan
+My name is Renujaan.
+My age is 22.
